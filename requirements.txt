@@ -1,0 +1,8 @@
+Flask>=2.2
+psutil
+python-dotenv
+requests
+opencv-python-headless   # for server w/o GUI; use opencv-python if you need local camera GUI
+pyttsx3
+SpeechRecognition
+pyaudio
